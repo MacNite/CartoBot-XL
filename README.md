@@ -27,4 +27,4 @@ Find the Fusion360 model for your viewing pleasure here:
 
 https://a360.co/3tu4QL4
 
-![CorEssentials MK1](https://github.com/MacNite/CorEssentials/blob/MK1/pictures/CorEssentials_4.png?raw=true)
+![CartoBot-XL](https://github.com/MacNite/CartoBot-XL/blob/main/Photos/built%20impressions/20220317_200904.jpg?raw=true)
